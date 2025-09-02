@@ -1,0 +1,11 @@
+- item: About
+  url: about/
+- item: Blog
+  url: ""
+- item: Categorie
+  url: categories
+- item: Journal
+  url: tags
+- item: Tourisme
+  url: categories/tourisme
+

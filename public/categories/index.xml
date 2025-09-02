@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Raphaëlle de Tappie</title>
+    <link>http://192.168.0.12:1313/categories/</link>
+    <description>Recent content in Categories on Raphaëlle de Tappie</description>
+    <generator>Hugo</generator>
+    <language>fr-FR</language>
+    <lastBuildDate>Thu, 07 May 2015 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://192.168.0.12:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bien-Être</title>
+      <link>http://192.168.0.12:1313/categories/bien-%C3%AAtre/</link>
+      <pubDate>Thu, 07 May 2015 00:00:00 +0000</pubDate>
+      <guid>http://192.168.0.12:1313/categories/bien-%C3%AAtre/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Lifestyle</title>
+      <link>http://192.168.0.12:1313/categories/lifestyle/</link>
+      <pubDate>Thu, 07 May 2015 00:00:00 +0000</pubDate>
+      <guid>http://192.168.0.12:1313/categories/lifestyle/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Santé</title>
+      <link>http://192.168.0.12:1313/categories/sant%C3%A9/</link>
+      <pubDate>Thu, 07 May 2015 00:00:00 +0000</pubDate>
+      <guid>http://192.168.0.12:1313/categories/sant%C3%A9/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tourisme</title>
+      <link>http://192.168.0.12:1313/categories/tourisme/</link>
+      <pubDate>Thu, 07 May 2015 00:00:00 +0000</pubDate>
+      <guid>http://192.168.0.12:1313/categories/tourisme/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

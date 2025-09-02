@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lifestyle on Raphaëlle de Tappie</title>
+    <link>http://192.168.0.12:1313/categories/lifestyle/</link>
+    <description>Recent content in Lifestyle on Raphaëlle de Tappie</description>
+    <generator>Hugo</generator>
+    <language>fr-FR</language>
+    <lastBuildDate>Thu, 07 May 2015 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://192.168.0.12:1313/categories/lifestyle/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Nous avons testé les thermes de Saint-Gervais Mont-Blanc et le pouvoir guérisseur de son eau millénaire</title>
+      <link>http://192.168.0.12:1313/posts/lifestyle/article-1/</link>
+      <pubDate>Thu, 07 May 2015 00:00:00 +0000</pubDate>
+      <guid>http://192.168.0.12:1313/posts/lifestyle/article-1/</guid>
+      <description>&lt;p&gt;Début avril, avons eu la chance de passer trois jours aux thermes de Saint-Gervais Mont-Blanc, en Haute-Savoie. Du spa aux cures thermales, découvrez tout ce que ce magnifique établissement à offrir.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
